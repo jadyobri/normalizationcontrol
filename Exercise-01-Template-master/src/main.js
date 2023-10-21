@@ -4,7 +4,7 @@
 
 // Spritesheet by ElvGames: https://elv-games.itch.io/free-fantasy-dreamland-sprites
 
-"use strict"
+//"use strict"
 
 let config = {
     type: Phaser.AUTO,
